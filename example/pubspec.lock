@@ -106,7 +106,7 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
+      ref: df963c90f
       resolved-ref: df963c90f626d6d3ec50841ededcce89b8020821
       url: "https://github.com/EdgarJan/flutter_form_builder.git"
     source: git
@@ -212,7 +212,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "10.0.3"
+    version: "10.0.2"
   form_builder_validators:
     dependency: "direct main"
     description:
